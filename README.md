@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi i'm ehsan.<br>I'm currently working on improving my React.js skills.<br>I love learn new technologies and solving problems is my hobby
+Hi i'm ehsan.<br>I'm currently working on improving my React.js skills.<br>I like to learn new technologies and solving problems is my hobby
 
 
 ## 🌐 Socials:

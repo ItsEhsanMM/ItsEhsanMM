@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi i'm ehsan.<br>I'm currently working on improving my React.js skills.<br>I like to learn new technologies and solving problems is my hobby
+Web Developer experienced in HTML,
+CSS, JavaScript and React
+programming.<br/> Skilled in developing
+and maintaining responsive web
+applications,<br/> improving user
+experience, and debugging and solving
+issues.
 
 
 ## 🌐 Socials:

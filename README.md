@@ -2,7 +2,7 @@
 <h3 align="center">a JavaScript enthusiast</h3>
 
 # 💫 About Me:
-👨‍💻 All of my projects are available at https://next-flash.ir or https://github.com/ItsEhsanMM?tab=repositories<br><br>💬 Ask me about TypeScript, JavaScript and React.JS<br><br>📫 How to reach me itsehsanmm@gmail.com<br><br>⚡ Fun fact Cows have best friends and get stressed when separated. It's like the original moood swings!
+👨‍💻 All of my projects are available at https://devdesigns.ir or https://github.com/ItsEhsanMM?tab=repositories<br><br>💬 Ask me about TypeScript, JavaScript and React.JS<br><br>📫 How to reach me itsehsanmm@gmail.com<br><br>⚡ Fun fact Cows have best friends and get stressed when separated. It's like the original moood swings!
 
 
 # 💻 Tech Stack:
